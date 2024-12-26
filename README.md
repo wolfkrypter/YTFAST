@@ -7,7 +7,7 @@ YTFAST ejecuta de forma legible YT-DLP
 <p>~ $ git clone https://github.com/wolfkrypter/YTFAST.git</p>
 
 
-<p>~ $ cd YFAST</p>
+<p>~ $ cd YTFAST</p>
 
 <p>~/YTFAST $ bash install.sh</p>
 
@@ -23,7 +23,7 @@ YTFAST ejecuta de forma legible YT-DLP
 
 <p>~ $ pkg uninstall git</p>
 <p>~ $ cd YTFAST</p>
-<p>~/YTFAST $ bash uninstall.sh</p>
+<p>~/YTFAST $ bash uninstall.sh && cd</p>
 <p>~ $ yes | rm -r YTFAST</p>
 
 
