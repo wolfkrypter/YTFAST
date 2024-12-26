@@ -4,7 +4,7 @@ YTFAST ejecuta de forma legible YT-DLP
 <p>Status: Activa</p>
 <h2>Instalación de YFAST</h2>
 <p>~ $ pkg install git</p>
-<p>~ $ git clone https://github.com/wolfkrypter/YFAST.git</p>
+<p>~ $ git clone https://github.com/wolfkrypter/YTFAST.git</p>
 
 
 <p>~ $ cd YFAST</p>
