@@ -16,7 +16,7 @@ YTFAST ejecuta de forma legible YT-DLP
 <p>~/YTFAST $ ytfast</p>
 <p>OR</p>
 <p>~ $ ytfast</p>
-<img src="https://i.imgur.com/GrH1u6y.jpeg" alt="YTFAST">
+<img src="https://i.imgur.com/cNvHIe5.jpeg" alt="YTFAST">
 
 
 <h2>Desinstalación de YTFAST</h2>
